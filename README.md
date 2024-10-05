@@ -1,8 +1,10 @@
+<h1 align="centre">
+ <img src="https://raw.githubusercontent.com/ibhub0/ibhub0/refs/heads/main/assets/line-neon.gif" width="100%">
 
   <a href="https://github.com/ibhub0/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Infinity+Botz&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
 </p>
-
+  <img src="https://raw.githubusercontent.com/ibhub0/ibhub0/refs/heads/main/assets/line-neon.gif" width="100%"></h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile.;I+Am+A+Learner.;Thank+You!)
 
