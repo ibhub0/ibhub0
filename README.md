@@ -11,11 +11,9 @@
 
 ## Follow Me On
 
-
-</p>
-<p align="center">
-<a href="https://telegram.me/infinity_botz"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-
+<h1 align="centre">
+ <img src="https://raw.githubusercontent.com/ibhub0/ibhub0/refs/heads/main/resources/infinity_botzz.pic.png"></h1>
+ <a href="https://telegram.me/infinity_botz"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
