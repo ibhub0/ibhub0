@@ -10,9 +10,10 @@
 
 
 ## Follow Me On
-
+<div align="center">
 <h1 align="centre">
- <img src="https://raw.githubusercontent.com/ibhub0/ibhub0/refs/heads/main/resources/infinity_botzz.pic.png"></h1>
+ <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img src="https://raw.githubusercontent.com/ibhub0/ibhub0/refs/heads/main/resources/infinity_botzz.pic.png"> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>
+ </div>
  <a href="https://telegram.me/infinity_botz"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
