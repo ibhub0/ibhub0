@@ -39,5 +39,27 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibhub0&theme=chartreuse-dark" alt="mystreak"/>
 <a href="https://github.com/ibhub0"><img width=550 src="https://github-profile-trophy.vercel.app/?username=ibhub0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
+ <img src="https://raw.githubusercontent.com/ibhub0/ibhub0/main/resources/songs.gif" width="57px" />
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120px" />
+  
+  <a href="https://telegram.dog/talk_mrs_bot">
+    <img src="https://raw.githubusercontent.com/ibhub0/ibhub0/main/resources/telegram_icon.png" width="60px" />
+  </a>
+  
+  <a href="https://github.com/ibhub0">
+    <img src="https://raw.githubusercontent.com/ibhub0/ibhub0/main/resources/github_icon.png" width="60px" />
+  </a>
+  
+  <a href="https://telegram.dog/hd_movies_hub01">
+    <img src="https://raw.githubusercontent.com/ibhub0/ibhub0/main/resources/insta_icon.png" width="60px" />
+  </a>
+  
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120px" />
+</p>
 
-[<img src="https://raw.githubusercontent.com/ibhub0/ibhub0/main//resources/telegram_icon.png" width="60px">](https://telegram.dog/talk_mrs_bott) [<img src="https://raw.githubusercontent.com/ibhub0/ibhub0/main/resources/github_icon.png" width="60px">](https://github.com/ibhub0) [<img src="https://github.com/ibhub0/ibhub0/blob/main/resources/insta_icon.png" width="60px">](https://telegram.dog/hd_movies_hub01)
+
+
+
