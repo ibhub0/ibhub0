@@ -1,3 +1,5 @@
+<h2 align="center">👋 Welcome to My GitHub</h2>
+
 
 <h1 align="centre">
  <img src="https://raw.githubusercontent.com/ibhub0/ibhub0/refs/heads/main/assets/line-neon.gif" width="75%">
@@ -25,7 +27,9 @@
 <br>
 <br>
 <p align="center">
-<img src="https://profile-counter.glitch.me/{ibhub0}/count.svg" alt="Infinity Botz :: Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=ibhub0&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=ibhub0&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="ibhub0" />
+</p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ibhub0&color=yellow" alt="watching_count" />
 </p>
