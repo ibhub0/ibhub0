@@ -47,6 +47,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white&labelColor=black">
 </p>
 
 ---
@@ -56,12 +57,15 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/Replit-FF5D01?style=for-the-badge&logo=replit&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/Koyeb-1DB954?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/VPS-FF6600?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/GoogleCloud-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/Render-00BFFF?style=for-the-badge&logo=render&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/Railway-6E45E2?style=for-the-badge&logo=railway&logoColor=white&labelColor=black">
 </p>
 
 ---
