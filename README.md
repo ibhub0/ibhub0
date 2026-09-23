@@ -257,14 +257,13 @@ software projects while continuously learning new technologies.
 
 <p align="center">
 
-  <a href="https://github.com/ibhub0">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ibhub0&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    alt="GitHub Trophies"
+    width="850"
+  />
 
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=ibhub0&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-      width="90%"
-      alt="GitHub Trophies"/>
-
-  </a>
+</p>
 
 </p>
 
