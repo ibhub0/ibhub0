@@ -143,25 +143,25 @@ software projects while continuously learning new technologies.
 <div align="center">
 
   <img
+    align="left"
     src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"
-    width="40px"
-    alt="Decoration"/>
-
-  &nbsp;&nbsp;
+    width="45px"
+    alt="Party"/>
 
   <img
-    src="https://raw.githubusercontent.com/ibhub0/ibhub0/refs/heads/main/resources/infinity_botzz.pic.png"
-    width="220px"
+    align="right"
+    src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"
+    width="45px"
+    alt="Party"/>
+
+  <img
+    src="https://raw.githubusercontent.com/ibhub0/ibhub0/main/assets/infinity_botz_1st.png"
+    width="580px"
     alt="Infinity Botz"/>
 
-  &nbsp;&nbsp;
-
-  <img
-    src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"
-    width="40px"
-    alt="Decoration"/>
-
 </div>
+
+<br clear="all"/>
 
 <br>
 
@@ -262,8 +262,6 @@ software projects while continuously learning new technologies.
     alt="GitHub Trophies"
     width="850"
   />
-
-</p>
 
 </p>
 
