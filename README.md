@@ -283,13 +283,6 @@ software projects while continuously learning new technologies.
 
 <p align="center">
 
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-    width="120px"
-    alt="Animation"/>
-
-  &nbsp;&nbsp;
-
   <a href="https://telegram.dog/talk_mrs_bot">
     <img
       src="https://raw.githubusercontent.com/ibhub0/ibhub0/main/resources/telegram_icon.png"
@@ -297,7 +290,16 @@ software projects while continuously learning new technologies.
       alt="Telegram"/>
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://telegram.dog/hd_movies_hub01">
+    <img
+      src="https://raw.githubusercontent.com/ibhub0/ibhub0/main/resources/insta_icon.png"
+      width="60px"
+      alt="Instagram"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/ibhub0">
     <img
@@ -305,22 +307,6 @@ software projects while continuously learning new technologies.
       width="60px"
       alt="GitHub"/>
   </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://telegram.dog/hd_movies_hub01">
-    <img
-      src="https://raw.githubusercontent.com/ibhub0/ibhub0/main/resources/insta_icon.png"
-      width="60px"
-      alt="Social"/>
-  </a>
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-    width="120px"
-    alt="Animation"/>
 
 </p>
 
